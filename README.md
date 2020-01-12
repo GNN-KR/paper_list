@@ -1,7 +1,8 @@
 # List of papers on graph neural networks
 
 ## GNN frameworks
-
+* PyTorch Geometric, [[Doc]](https://pytorch-geometric.readthedocs.io/en/latest/notes/create_gnn.html#implementing-the-edge-convolution)
+* TensorFlow GraphNets, [[GitHub]](https://github.com/deepmind/graph_nets)
 
 ## GNN architectures
 
@@ -45,6 +46,14 @@
 * Graph Convolutional Matrix Completion, [[Link]](https://arxiv.org/abs/1706.02263), [[GitHub]](https://github.com/riannevdberg/gc-mc) 
 
 ## Molecular applications
-
+* SchNet
+* MoleculeNet
+* Bayesian GCN
+* 
 
 ## Physics modeling
+* Ineraction Networks
+* Neural Relational Inference
+* Symbolic Physics
+* H-OGN
+* SRNN
