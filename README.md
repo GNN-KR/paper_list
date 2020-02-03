@@ -1,5 +1,9 @@
 # List of papers on graph neural networks
 
+## GNN Lectures
+* CS224W by Jure Leskovec, [[Link]](http://web.stanford.edu/class/cs224w/)
+* NeurIPS 2019 Graph Representation Learning workshop, [[Link]](https://grlearning.github.io/)
+
 ## GNN frameworks
 * PyTorch Geometric, [[Doc]](https://pytorch-geometric.readthedocs.io/en/latest/notes/create_gnn.html#implementing-the-edge-convolution)
 * TensorFlow GraphNets, [[GitHub]](https://github.com/deepmind/graph_nets)
