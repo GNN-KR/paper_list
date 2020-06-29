@@ -7,6 +7,7 @@
 ## GNN frameworks
 * PyTorch Geometric, [[Doc]](https://pytorch-geometric.readthedocs.io/en/latest/notes/create_gnn.html#implementing-the-edge-convolution)
 * TensorFlow GraphNets, [[GitHub]](https://github.com/deepmind/graph_nets)
+* (PyTorch, TensorFlow, MXNet) DGL, [[GitHub]](https://www.dgl.ai)
 
 ## GNN architectures
 
@@ -48,6 +49,14 @@
 * Variational Graph Auto-Encoders, [[Link]](https://arxiv.org/abs/1611.07308), [[Github]](https://github.com/tkipf/gae)
 * Modeling Relational Data with Graph Convolutional Networks, [[Link]](https://arxiv.org/abs/1703.06103), [[GitHub]](https://github.com/tkipf/relational-gcn)
 * Graph Convolutional Matrix Completion, [[Link]](https://arxiv.org/abs/1706.02263), [[GitHub]](https://github.com/riannevdberg/gc-mc) 
+
+### Heterogenous GNN for RecSys
+* MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding. (WWW`20)  [[Link]](http://arxiv.org/abs/2002.01680)
+* Heterogeneous Graph Neural Network. (KDD`19)  [[Link]](https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network)
+* Tripartite Heterogeneous Graph Propagation for Large-Scale Social Recommendation. (RecSys`19)  [[Link]](http://arxiv.org/abs/1908.02569)
+* Learning Disentangled Representations for Recommendation. (NeurIPS`19) [[Link]](http://papers.nips.cc/paper/8808-learning-disentangled-representations-for-recommendation)
+* Evolutionarily Learning Multi-Aspect Interactions and Influences from Network Structure and Node Content.” (AAAI`19) [[Link]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3835)
+* Heterogeneous Information Network Embedding for Recommendation.” (TKDE`19) [[LINK]](https://arxiv.org/pdf/1711.10730.pdf)
 
 ## Molecular applications
 * SchNet
